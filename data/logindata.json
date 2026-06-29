@@ -1,0 +1,14 @@
+[
+    {
+        "appuserName": "wrong@open.com",
+        "password": "Wrong@123"
+    },
+    {
+        "appuserName": "invalid@open.com",
+        "password": " "
+    },
+    {
+        "appuserName": "pw@open.com",
+        "password": "Wrong@123"
+    }
+]
