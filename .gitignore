@@ -8,4 +8,4 @@ node_modules/
 /playwright/.auth/
 
 config/.env.*
-!config/.env.stage
+!config/.env.example
